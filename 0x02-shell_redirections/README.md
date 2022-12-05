@@ -1,2 +1,1 @@
-#!/bin/bash
-echo hello world
+Shell, I/O Redirections and filters
